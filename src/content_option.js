@@ -1,4 +1,4 @@
-const logotext = "DANISH";
+const logotext = " MUHAMMAD DANISH";
 const meta = {
     title: "Danish",
     description: "I’m Software Engineer  _ Full stack devloper,currently working in Pakistan (XLOOP)",
@@ -7,12 +7,12 @@ const meta = {
 const introdata = {
     title: "I’m Muhammad Danish",
     animated: {
-        first: " A SOFTWARE ENGINEER  and I love coding.",
+        first: "  SOFTWARE ENGINEER  and I love coding.",
         second: "I code cool websites and develop mobile apps also UI/UX designs , Deployment , Testing.",
         third: "I am  a Full Stack Developer"
     },
     description: "As a full Stack Developer. My Working Stack is For Frontend on React , React Native , Libraries of css (MUI, TAILWIND, BOOTSTRAP, ANT-DESIGN), Backend on Java (Spring-boot) , python. Database postgres sql .    ",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://scontent.fkhi10-1.fna.fbcdn.net/v/t39.30808-6/416009210_2476100282563443_8233924534547931468_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHlM9JwdWb5RfbQjDqhvSxHKQmqnpr1gbIpCaqemvWBspNHGhZc7ySwAnFcvxTYnVyfQo_9huAC6FIEahqcuIct&_nc_ohc=nsdOZ57kgkUAX8NQng7&_nc_ht=scontent.fkhi10-1.fna&oh=00_AfApOTHBqHcqM2VVS4IPLNnSXJLKdZtYm6WgzKJgRD47hA&oe=65E124F0",
 };
 
 const dataabout = {
