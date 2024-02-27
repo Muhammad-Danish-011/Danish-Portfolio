@@ -31,7 +31,7 @@ export const Portfolio = () => {
         <div className="mb-5 po_items_ho">
           {repositories.map((repo, i) => (
             <div key={i} className="po_item">
-              <img src={`https://picsum.photos/400/?random=${i}`} alt="" />
+              <img src={`https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.jpg?b=1&s=612x612&w=0&k=20&c=ujRPoiaJlm5U3WDWcVVa1YVlFIt6Gcjr-RstzOEPbIU=`} alt="" />
               <div className="content">
                 <h3>{repo.name}</h3>
                 <p>{repo.description}</p>
