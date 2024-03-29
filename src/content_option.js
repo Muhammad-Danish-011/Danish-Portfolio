@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About My Self",
-    aboutme: "I am a Software Engineer and Currently Working as a Full Stack Developer. As a full Stack Developer. My Working Stack is For Frontend on React , React Native , Libraries of css (MUI, TAILWIND, BOOTSTRAP, ANT-DESIGN), Backend on Java (Spring-boot) , python. Database postgres sql .",
+    aboutme: "I am a Software Engineer passed out from Univeristy Of Karachi (UBIT) on 2022 and Currently Working as a Full Stack Developer. As a full Stack Developer, My Working Stack is For Frontend on React , React Native , Libraries of css (MUI, TAILWIND, BOOTSTRAP, ANT-DESIGN), Backend on Java (Spring-boot) , python, Database postgres sql , SqlAlchemy , Testing and Deployment",
 };
 const worktimeline = [{
         jobtitle: "Software Engineer",
@@ -57,7 +57,21 @@ const skills = [{
      {
         name: "React-Native",
         value: 70,
-    }
+    } , 
+    {
+       name: "Node js",
+       value: 80,
+   } , 
+   {
+      name: "Google Cloud (GCP)",
+      value: 80,
+  }
+  , 
+  {
+     name: "Testing",
+     value: 95,
+ }
+  
 ];
 
 
