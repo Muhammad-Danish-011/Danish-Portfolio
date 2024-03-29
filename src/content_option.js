@@ -39,6 +39,12 @@ const skills = [{
         name: "React",
         value: 98,
     },
+    
+    {
+        name: "Next js",
+        value: 98,
+    }
+    ,
     {
         name: "Java (Spring-boot)",
         value: 90,
@@ -70,7 +76,11 @@ const skills = [{
   {
      name: "Testing",
      value: 95,
- }
+ }, 
+ {
+    name: "Github",
+    value: 100,
+}
   
 ];
 
