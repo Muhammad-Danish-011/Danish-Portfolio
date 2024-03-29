@@ -11,7 +11,7 @@ const introdata = {
         second: "I code cool websites and develop mobile apps also UI/UX designs , Deployment , Testing.",
         third: "I am  a Full Stack Developer"
     },
-    description: "As a full Stack Developer. My Working Stack is For Frontend on React , React Native , Libraries of css (MUI, TAILWIND, BOOTSTRAP, ANT-DESIGN), Backend on Java (Spring-boot) , python. Database postgres sql .    ",
+    description: "As a full Stack Developer. My Working Stack is For Frontend on React , React Native , Libraries of css (MUI, TAILWIND, BOOTSTRAP, ANT-DESIGN), Backend on Java (Spring-boot) , python. Database postgres sql , SqlAlchemy. Deployment on Google cloud (GCP)    ",
     your_img_url: "https://raw.githubusercontent.com/Muhammad-Danish-011/Danish-Portfolio/master/src/assets/images/pic.jpg",
 };
 
