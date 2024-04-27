@@ -172,7 +172,7 @@ const services = [{
 // ];
 
 const contactConfig = {
-    YOUR_EMAIL: "b18158031.muhammaddanish@gmail.com",
+    YOUR_EMAIL: "softwareengineer.danish@gmail.com",
     YOUR_FONE: "03228714966",
     description: "",
     // Update these values with your actual EmailJS credentials
