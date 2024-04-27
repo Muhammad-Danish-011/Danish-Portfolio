@@ -176,7 +176,7 @@ const contactConfig = {
     YOUR_FONE: "03228714966",
     description: "",
     // Update these values with your actual EmailJS credentials
-    YOUR_SERVICE_ID: "service_ah2q3yd", // <-- Replace with your EmailJS service ID
+    YOUR_SERVICE_ID: "service_rxo5ivg", // <-- Replace with your EmailJS service ID
     YOUR_TEMPLATE_ID: "template_mrxulhl", // <-- Replace with your EmailJS template ID
     YOUR_USER_ID: "9uA_6EXeQJ2hwaBJ1", // <-- Replace with your EmailJS user ID (private key)
 };
