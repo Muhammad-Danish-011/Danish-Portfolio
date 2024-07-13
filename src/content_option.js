@@ -22,7 +22,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Software Engineer",
         where: "XLOOP digital (pvt) limited",
-        date: "Feb 2023 to present",
+        date: "27th Feb 2023 to 14th june 2024 ",
     }
 ];
 
@@ -36,10 +36,14 @@ const skills = [{
         value: 95,
     },
     {
-        name: "React",
+        name: "React js",
         value: 98,
     },
-    
+    {
+        name: "React Native",
+        value: 80,
+    }
+    ,
     {
         name: "Next js",
         value: 98,
