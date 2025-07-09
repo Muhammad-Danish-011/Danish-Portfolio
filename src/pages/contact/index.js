@@ -141,6 +141,7 @@ export const ContactUs = () => {
                     onChange={handleChange}
                   />
                 </Col>
+                 <br/> <br/>
                 <Col lg="6" className="form-group">
                   <input
                     className="form-control rounded-0"
