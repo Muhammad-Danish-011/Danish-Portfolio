@@ -18,7 +18,7 @@ export const Home = () => {
           {/* Left Content */}
           <div className="home-content">
             <div className="home-text">
-              <span className="home-greeting">👋 Welcome to my portfolio</span>
+              <span className="home-greeting">Welcome to my portfolio</span>
               <h2 className="home-title">{introdata.title}</h2>
               <h1 className="home-typewriter">
                 <Typewriter
@@ -73,7 +73,7 @@ export const Home = () => {
               />
               <div className="image-glow"></div>
               <div className="image-badge">
-                <span>🌟 Solution Architect</span>
+                <span>Solution Architect</span>
               </div>
             </div>
           </div>
